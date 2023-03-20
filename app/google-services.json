@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "103474711227",
+    "firebase_url": "https://appbook2-f1b05-default-rtdb.firebaseio.com",
+    "project_id": "appbook2-f1b05",
+    "storage_bucket": "appbook2-f1b05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103474711227:android:9b342fa2643bb7f512b79e",
+        "android_client_info": {
+          "package_name": "com.example.assignmentthreecloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103474711227-1psc5bnf3vdqisae3v0647nki897cr7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf89gi_kUHFYQO1vuPJBBeUii0inVVsBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103474711227-1psc5bnf3vdqisae3v0647nki897cr7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103474711227:android:3220e856339defed12b79e",
+        "android_client_info": {
+          "package_name": "com.example.assignmenttowcloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103474711227-1psc5bnf3vdqisae3v0647nki897cr7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf89gi_kUHFYQO1vuPJBBeUii0inVVsBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103474711227-1psc5bnf3vdqisae3v0647nki897cr7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103474711227:android:db1238ca4862393712b79e",
+        "android_client_info": {
+          "package_name": "com.example.bookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103474711227-1psc5bnf3vdqisae3v0647nki897cr7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf89gi_kUHFYQO1vuPJBBeUii0inVVsBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103474711227-1psc5bnf3vdqisae3v0647nki897cr7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
